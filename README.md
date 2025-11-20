@@ -4,7 +4,6 @@ I graduated with a master's degree from the Research School of Biology at the AN
 
 # More about me 
 - 🔭 I’m currently working on ... m5C site detection using ONT direct-RNA sequencing
-- 🌱 I’m currently learning ... 
 - 👯 I’m looking to collaborate on ... phylogenetics, evolutionary genomics, and anything beautiful/interesting
 - 🤔 I’m looking for help with ... software-building
 - 💬 Ask me about ... SPONGES
