@@ -1,6 +1,6 @@
 # About me 
 
-A PhD candidate working on the RNA-to-DNA transition in early Life on earth by studying the origins of the enzyme: RNR (Ribonucleotide Reductase) -- the only known pathway for the syntheis of the building blocks of DNA -- supervised by Dr Anthony Poole.
+A PhD candidate working on the RNA-to-DNA transition in early Life on earth by studying the origins of the enzyme: RNR (Ribonucleotide Reductase) -- the only known pathway for the syntheis of the building blocks of DNA -- supervised by Dr Anthony Poole at the University of Auckland (UoA).
 
 Until 2026, I was a research officer at the John Curtin School of Medical Research at the Australian National University (ANU) working on: RNA modifications, Polysome Profiling and the use of self-splicing introns in targeted drug delivery. 
 
